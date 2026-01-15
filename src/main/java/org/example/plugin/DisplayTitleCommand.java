@@ -1,11 +1,8 @@
 package org.example.plugin;
 
-import com.hypixel.hytale.protocol.FormattedMessage;
-import com.hypixel.hytale.protocol.GameMode;
 import com.hypixel.hytale.server.core.Message;
 import com.hypixel.hytale.server.core.NameMatching;
 import com.hypixel.hytale.server.core.command.system.CommandContext;
-import com.hypixel.hytale.server.core.command.system.basecommands.AbstractPlayerCommand;
 import com.hypixel.hytale.server.core.command.system.basecommands.CommandBase;
 import com.hypixel.hytale.server.core.entity.entities.Player;
 import com.hypixel.hytale.server.core.universe.PlayerRef;
@@ -14,8 +11,6 @@ import com.hypixel.hytale.server.core.util.EventTitleUtil;
 
 import javax.annotation.Nonnull;
 import java.awt.*;
-
-import static com.hypixel.hytale.builtin.hytalegenerator.LoggerUtil.getLogger;
 
 /**
  * This is an example command that will simply print the name of the plugin in chat when used.
