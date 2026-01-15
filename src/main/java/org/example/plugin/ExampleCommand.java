@@ -17,7 +17,7 @@ public class ExampleCommand extends CommandBase {
 
     public ExampleCommand(String pluginName, String pluginVersion) {
         super("test", "Prints a test message from the " + pluginName + " plugin.");
-        this.setPermissionGroup(GameMode.Adventure); // Allows the command to be used by anyone, not just OP
+        this.setPermissionGroup(GameMode.Creative); // Allows the command to be used by anyone, not just OP
         this.pluginName = pluginName;
         this.pluginVersion = pluginVersion;
     }

@@ -1,14 +1,14 @@
 {
-    "Group": "Example",
-    "Name": "ExamplePlugin",
-    "Version": "0.0.2",
-    "Description": "An example plugin for HyTale!",
+    "Group": "Varrell",
+    "Name": "TutoPlugin",
+    "Version": "0.0.1",
+    "Description": "Tutorial Plugin",
     "Authors": [
         {
-            "Name": "It's you!"
+            "Name": "Varrell"
         }
     ],
-    "Website": "example.org",
+    "Website": "None",
     "ServerVersion": "*",
     "Dependencies": {
         
