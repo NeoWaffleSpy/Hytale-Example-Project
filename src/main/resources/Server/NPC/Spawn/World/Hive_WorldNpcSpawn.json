@@ -1,0 +1,37 @@
+{
+  "Environments": [
+    "Hive_Env"
+  ],
+  "NPCs": [
+    {
+      "Weight": 2,
+      "SpawnBlockSet": "Soil",
+      "Id": "Dungeon_Scarak_Broodmother",
+      "Flock": "One_Or_Two"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Soil",
+      "Id": "Dungeon_Scarak_Seeker",
+      "Flock": "Group_Small"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Soil",
+      "Id": "Dungeon_Scarak_Fighter",
+      "Flock": "Group_Small"
+    },
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Soil",
+      "Id": "Dungeon_Scarak_Defender",
+      "Flock": "Group_Small"
+    },
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil",
+      "Id": "Dungeon_Scarak_Louse",
+      "Flock": "Group_Medium"
+    }
+  ]
+}

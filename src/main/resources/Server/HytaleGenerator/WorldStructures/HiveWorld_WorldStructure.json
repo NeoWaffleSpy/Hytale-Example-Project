@@ -1,0 +1,44 @@
+{
+  "Type": "NoiseRange",
+  "Biomes": [
+    {
+      "Biome": "HiveWorld",
+      "Min": -1,
+      "Max": 1
+    }
+  ],
+  "DefaultBiome": "Basic",
+  "DefaultTransitionDistance": 32,
+  "MaxBiomeEdgeDistance": 32,
+  "Density": {
+    "Type": "Imported",
+    "Name": "Biome-Map"
+  },
+  "ContentFields": [
+    {
+      "Type": "BaseHeight",
+      "Name": "Base",
+      "Y": 100
+    },
+    {
+      "Type": "BaseHeight",
+      "Name": "FloorSeparator1",
+      "Y": 100
+    },
+    {
+      "Type": "BaseHeight",
+      "Name": "FloorSeparator2",
+      "Y": 200
+    },
+    {
+      "Type": "BaseHeight",
+      "Name": "Bedrock",
+      "Y": 0
+    },
+    {
+      "Type": "BaseHeight",
+      "Name": "Ceiling",
+      "Y": 319
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "Parent": "Default",
+  "World": {
+    "AllowBlockBreaking": true,
+    "AllowBlockGathering": true
+  },
+  "Death": {
+    "LoseItems": false,
+    "RespawnController": {
+      "Type": "ExitInstance"
+    }
+  },
+  "Plugin": {
+    "Objective": {
+      "StarterObjectiveLinePerWorld": {
+        "test": "HiveWorld_ObjectiveLine"
+      }
+    }
+  }
+}

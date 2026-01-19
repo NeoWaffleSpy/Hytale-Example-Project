@@ -1,8 +1,8 @@
 {
     "Group": "Varrell",
-    "Name": "TutoPlugin",
+    "Name": "HiveWorld",
     "Version": "0.0.1",
-    "Description": "Tutorial Plugin",
+    "Description": "The HiveWorld Fragment of Orbis",
     "Authors": [
         {
             "Name": "Varrell"
@@ -17,6 +17,6 @@
         
     },
     "DisabledByDefault": false,
-    "Main": "org.example.plugin.ExamplePlugin",
+    "Main": "org.Varrell.plugin.HiveWorld",
     "IncludesAssetPack": true
 }

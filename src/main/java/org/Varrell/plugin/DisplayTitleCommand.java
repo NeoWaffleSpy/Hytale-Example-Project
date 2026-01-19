@@ -1,4 +1,4 @@
-package org.example.plugin;
+package org.Varrell.plugin;
 
 import com.hypixel.hytale.server.core.Message;
 import com.hypixel.hytale.server.core.NameMatching;
@@ -27,5 +27,6 @@ public class DisplayTitleCommand extends CommandBase {
         PlayerRef pr = Universe.get().getPlayer(ctx.senderAs(Player.class).getDisplayName(), NameMatching.EXACT);
         assert pr != null;
         EventTitleUtil.showEventTitleToPlayer(pr, m1, m2, true);
+        ctx.senderAs(Player.class);
     }
 }
