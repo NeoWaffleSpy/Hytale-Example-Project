@@ -673,6 +673,28 @@
 						}
 					}
 				}, {
+					"$NodeId":	"FieldFunctionMaterialProvider-9e6ecfb8-66be-4976-a8c6-64e1822fbf51",
+					"Type":	"FieldFunction",
+					"FieldFunction":	{
+						"$NodeId":	"ImportedDensityNode-a749177c-b93b-4828-a271-85101f52fc3a",
+						"Type":	"Imported",
+						"Skip":	false,
+						"Name":	"Pathway_Density"
+					},
+					"Delimiters":	[{
+							"$NodeId":	"DelimiterFieldFunctionMP-56667c26-d386-449a-87ba-e18d7946e2da",
+							"From":	0,
+							"To":	1,
+							"Material":	{
+								"$NodeId":	"CustomMaterialProvider-f145d7f9-1148-4129-9f0f-26231cd2c5fa",
+								"Type":	"CustomMaterialVarrell",
+								"Material":	{
+									"$NodeId":	"Material-bc490f89-7abb-4a5a-9d2d-f79123cba699",
+									"Solid":	"Soil_Mud"
+								}
+							}
+						}]
+				}, {
 					"$NodeId":	"SimpleHorizontalMaterialProvider-28ec6683-07dc-4559-beaa-934d2746a19f",
 					"Type":	"SimpleHorizontal",
 					"TopY":	1,
@@ -5466,10 +5488,10 @@
 					"$y":	24681
 				}
 			},
-			"Material-54a200d3-5413-45b1-882a-fac4d7b2f164":	{
+			"Material-46c85ca6-bba3-4e43-a139-2a5c32558e2b":	{
 				"$Position":	{
-					"$x":	-32198,
-					"$y":	24425
+					"$x":	-32200,
+					"$y":	24682
 				}
 			},
 			"Random.Directionality-a1880f1d-cedb-4b1a-8d9b-4ca8075ea251":	{
@@ -5876,6 +5898,12 @@
 					"$y":	2654
 				}
 			},
+			"Material-54a200d3-5413-45b1-882a-fac4d7b2f164":	{
+				"$Position":	{
+					"$x":	-32198,
+					"$y":	24425
+				}
+			},
 			"FieldFunctionMaterialProvider-9e6ecfb8-66be-4976-a8c6-64e1822fbf51":	{
 				"$Position":	{
 					"$x":	-23562,
@@ -5904,12 +5932,6 @@
 				"$Position":	{
 					"$x":	-21672,
 					"$y":	713
-				}
-			},
-			"Material-46c85ca6-bba3-4e43-a139-2a5c32558e2b":	{
-				"$Position":	{
-					"$x":	-32200,
-					"$y":	24682
 				}
 			},
 			"Cluster.Prop-5783ce1d-c7b2-44c7-91b7-2d3a76545e3f":	{
@@ -6313,33 +6335,20 @@
 					"$x":	-29008,
 					"$y":	20367
 				}
+			},
+			"CustomMaterialProvider-f145d7f9-1148-4129-9f0f-26231cd2c5fa":	{
+				"$Position":	{
+					"$x":	-22352,
+					"$y":	839
+				}
 			}
 		},
 		"$FloatingNodes":	[{
 				"$NodeId":	"Material-54a200d3-5413-45b1-882a-fac4d7b2f164",
 				"Solid":	"Rock_Stone_Stalactite_Small/Pitch=180"
 			}, {
-				"$NodeId":	"FieldFunctionMaterialProvider-9e6ecfb8-66be-4976-a8c6-64e1822fbf51",
-				"Type":	"FieldFunction",
-				"FieldFunction":	{
-					"$NodeId":	"ImportedDensityNode-a749177c-b93b-4828-a271-85101f52fc3a",
-					"Type":	"Imported",
-					"Skip":	false,
-					"Name":	"Pathway_Density"
-				},
-				"Delimiters":	[{
-						"$NodeId":	"DelimiterFieldFunctionMP-56667c26-d386-449a-87ba-e18d7946e2da",
-						"From":	0,
-						"To":	1,
-						"Material":	{
-							"$NodeId":	"ConstantMaterialProvider-d2dca6b6-5207-42ee-b152-6e61fa63d919",
-							"Type":	"Constant",
-							"Material":	{
-								"$NodeId":	"Material-bc490f89-7abb-4a5a-9d2d-f79123cba699",
-								"Solid":	"Soil_Mud"
-							}
-						}
-					}]
+				"$NodeId":	"ConstantMaterialProvider-d2dca6b6-5207-42ee-b152-6e61fa63d919",
+				"Type":	"Constant"
 			}, {
 				"$NodeId":	"Cluster.Prop-5783ce1d-c7b2-44c7-91b7-2d3a76545e3f",
 				"Type":	"Cluster",
