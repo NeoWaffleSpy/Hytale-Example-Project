@@ -1,0 +1,285 @@
+{
+  "version": 8,
+  "blockIdVersion": 10,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Deco_Salty_Bone_Ribs",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Deco_Salty_Bone_Ribs",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Deco_Salty_Bone_Ribs_Long",
+      "rotation": 5
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Deco_Salty_Bone_Spine"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Deco_Salty_Bone_Spine"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Deco_Salty_Bone_Spine"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Deco_Salty_Bone_Ribs_Long",
+      "rotation": 4
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Deco_Salty_Bone_Ribs_Long",
+      "rotation": 5
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Deco_Salty_Bone_Ribs_Long",
+      "rotation": 4
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Deco_Salty_Bone_Spine",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Deco_Salty_Bone_Ribs_Long",
+      "rotation": 4
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Deco_Salty_Bone_Ribs"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Deco_Salty_Bone_Ribs",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Deco_Salty_Bone_Ribs_Long",
+      "rotation": 4
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Deco_Salty_Bone_Spine",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Deco_Salty_Bone_Ribs_Long",
+      "rotation": 4
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Deco_Salty_Bone_Ribs"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Deco_Salty_Bone_Ribs_Long",
+      "rotation": 4
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Deco_Salty_Bone_Spine",
+      "rotation": 1
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "name": "Deco_Salty_Bone_Ribs"
+    }
+  ],
+  "fluids": [
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    }
+  ]
+}

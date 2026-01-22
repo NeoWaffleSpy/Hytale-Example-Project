@@ -1,0 +1,26 @@
+{
+  "Environments": [
+    "Env_Zone2_Salt_Flats"
+  ],
+  "MinDistanceFromPlayer": 25,
+  "MaxSpawnedNPCs": 2,
+  "ConcurrentSpawnsRange": [
+    1,
+    2
+  ],
+  "SpawnAfterGameTimeRange": [
+    "PT20M",
+    "PT40M"
+  ],
+  "NPCIdleDespawnTime": 20,
+  "BeaconVacantDespawnGameTime": "PT40M",
+  "BeaconRadius": 70,
+  "SpawnRadius": 60,
+  "TargetDistanceFromPlayer": 60,
+  "NPCs": [
+    {
+      "Weight": 100,
+      "Id": "Vulture"
+    }
+  ]
+}

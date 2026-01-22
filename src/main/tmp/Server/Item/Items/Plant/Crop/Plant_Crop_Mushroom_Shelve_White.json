@@ -1,0 +1,30 @@
+{
+  "TranslationProperties": {
+    "Name": "items.Plant_Crop_Mushroom_Shelve_White.name"
+  },
+  "Parent": "Plant_Crop_Mushroom_Shelve_Brown",
+  "Icon": "Icons/ItemsGenerated/Plant_Crop_Mushroom_Shelve_White.png",
+  "BlockType": {
+    "CustomModel": "Blocks/Foliage/Plants/Mushroom_Medium.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Plants/Mushroom_Medium_Textures/White.png",
+        "Weight": 1
+      }
+    ],
+    "ParticleColor": "#e4e3e1"
+  },
+  "IconProperties": {
+    "Scale": 0.46,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -17.3
+    ]
+  },
+  "DropOnDeath": true
+}

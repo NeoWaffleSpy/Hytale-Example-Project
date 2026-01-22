@@ -1,0 +1,19 @@
+{
+  "Environments": [
+    "Hive_Floor1_Env"
+  ],
+  "NPCs": [
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Soil",
+      "Id": "Dungeon_Scarak_Fighter",
+      "Flock": "Group_Small"
+    },
+    {
+      "Weight": 10,
+      "SpawnBlockSet": "Soil",
+      "Id": "Dungeon_Scarak_Louse",
+      "Flock": "Group_Large"
+    }
+  ]
+}

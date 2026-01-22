@@ -1,2 +1,6 @@
-items.Tuto_Block.name = Tutorial Block
-items.Test_Birch_Trunk.name = Tutorial Birch
+items.PortalKey_HiveWorld.name = HiveWorld Key
+items.PortalKey_HiveWorld.description = HiveWorld Desc
+portals.HiveWorld = HiveWorld
+portals.HiveWorld.description = Some say the reason Orbis fragmented was due to these gigantic Scarak hives.
+portals.HiveWorld.tip1 = The world is separated in 3 layers.\nThe trop floor is where all the precious are hoarded.
+portals.HiveWorld.tip2 = You will be given extermination quests to cull \ntheir number.

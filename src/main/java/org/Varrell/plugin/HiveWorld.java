@@ -1,5 +1,7 @@
 package org.Varrell.plugin;
 
+import com.hypixel.hytale.builtin.hytalegenerator.assets.props.ColumnPropAsset;
+import com.hypixel.hytale.builtin.hytalegenerator.assets.props.PropAsset;
 import com.hypixel.hytale.logger.HytaleLogger;
 import com.hypixel.hytale.server.core.plugin.JavaPlugin;
 import com.hypixel.hytale.server.core.plugin.JavaPluginInit;

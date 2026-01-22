@@ -1,0 +1,18 @@
+{
+  "Environments": [
+    "Env_Zone2_Salt_Flats_Ravines"
+  ],
+  "NPCs": [
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Rock",
+      "Id": "Scorpion"
+    }
+  ],
+  "LightRanges": {
+    "SkyLight": [
+      0,
+      2
+    ]
+  }
+}

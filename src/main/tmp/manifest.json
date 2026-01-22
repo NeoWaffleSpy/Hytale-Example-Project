@@ -1,0 +1,20 @@
+{
+  "Group": "SaltFlats",
+  "Name": "SaltFlats",
+  "Version": "1.0.0",
+  "Description": "Adds a new Fragment of Orbis: The Salt Flats",
+  "Authors": [
+    {
+      "Name": "NinjaMrcool (CoolAwesome)",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "SubPlugins": []
+}

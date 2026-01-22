@@ -2,7 +2,10 @@
   "WaterTint": "#672aaa",
   "SpawnDensity": 0.7,
   "Tags": {
-    "Zone1": []
+    "Zone2": [
+      "Caves",
+      "Scarak"
+    ]
   },
   "WeatherForecasts": {
     "0": [
