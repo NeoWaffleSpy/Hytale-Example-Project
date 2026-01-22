@@ -2,7 +2,8 @@
   "Parent": "Default",
   "World": {
     "AllowBlockBreaking": true,
-    "AllowBlockGathering": true
+    "AllowBlockGathering": true,
+    "AllowBlockPlacement": true
   },
   "Death": {
     "LoseItems": false,
@@ -13,7 +14,7 @@
   "Plugin": {
     "Objective": {
       "StarterObjectiveLinePerWorld": {
-        "test": "HiveWorld_ObjectiveLine"
+        "start": "HiveWorld_ObjectiveLine"
       }
     }
   }

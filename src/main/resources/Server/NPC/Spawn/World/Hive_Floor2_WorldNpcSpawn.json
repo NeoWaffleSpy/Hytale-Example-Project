@@ -6,19 +6,19 @@
     {
       "Weight": 5,
       "SpawnBlockSet": "Soil",
-      "Id": "Dungeon_Scarak_Seeker",
+      "Id": "Scarak_Seeker",
       "Flock": "One_Or_Two"
     },
     {
       "Weight": 5,
       "SpawnBlockSet": "Soil",
-      "Id": "Dungeon_Scarak_Fighter",
+      "Id": "Scarak_Fighter",
       "Flock": "One_Or_Two"
     },
     {
       "Weight": 10,
       "SpawnBlockSet": "Soil",
-      "Id": "Dungeon_Scarak_Louse",
+      "Id": "Scarak_Louse",
       "Flock": "One_Or_Two"
     }
   ]

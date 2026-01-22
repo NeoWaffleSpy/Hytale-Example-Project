@@ -260,5 +260,8 @@
       "Hour": 6,
       "Color": "#000000ff"
     }
-  ]
+  ],
+  "FogOptions": {
+    "IgnoreFogLimits": false
+  }
 }

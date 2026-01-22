@@ -1,0 +1,22 @@
+{
+  "TaskSets": [
+    {
+      "Tasks": [
+        {
+          "Type": "KillNPC",
+          "Count": 7,
+          "NPCGroupId": "HiveWorld_Scarak_Seeker"
+        }
+      ],
+      "DescriptionId": "server.quest.HiveWorld.quest1.description"
+    }
+  ],
+  "Completions": [
+    {
+      "Type": "GiveItems",
+      "DropList": "Hive_Objective_Reward"
+    }
+  ],
+  "TitleId": "server.objectives.HiveWorld.title",
+  "DescriptionId": "server.objectives.HiveWorld.description"
+}

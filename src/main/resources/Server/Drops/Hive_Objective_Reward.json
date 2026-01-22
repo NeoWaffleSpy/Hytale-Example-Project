@@ -1,0 +1,15 @@
+{
+  "Container": {
+    "Type": "Multiple",
+    "Containers": [
+      {
+        "Type": "Single",
+        "Item": {
+          "ItemId": "Ingredient_Bar_Mithril",
+          "QuantityMax": 5,
+          "QuantityMin": 3
+        }
+      }
+    ]
+  }
+}

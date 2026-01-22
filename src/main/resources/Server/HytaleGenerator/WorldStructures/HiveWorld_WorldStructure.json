@@ -7,7 +7,7 @@
       "Max": 1
     }
   ],
-  "DefaultBiome": "Basic",
+  "DefaultBiome": "HiveWorld",
   "DefaultTransitionDistance": 32,
   "MaxBiomeEdgeDistance": 32,
   "Density": {

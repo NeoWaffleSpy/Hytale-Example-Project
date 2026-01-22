@@ -1,5 +1,11 @@
 {
   "ObjectiveIds": [
-    "HiveWorld_Objective"
-  ]
+    "HiveWorld_Objective_Louse",
+    "HiveWorld_Objective_Fighter",
+    "HiveWorld_Objective_Seeker",
+    "HiveWorld_Objective_Defender",
+    "HiveWorld_Objective_Broodmother"
+  ],
+  "TitleId": "server.objective_line.HiveWorld.title",
+  "DescriptionId": "server.objective_line.HiveWorld.description"
 }

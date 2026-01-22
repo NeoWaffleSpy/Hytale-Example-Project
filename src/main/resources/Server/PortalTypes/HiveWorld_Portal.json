@@ -12,7 +12,7 @@
   },
   "VoidInvasionEnabled": false,
   "PlayerSpawn": {
-    "Y": 30,
+    "Y": 20,
     "ScanHeight": 16,
     "MinRadius": 60,
     "MaxRadius": 60

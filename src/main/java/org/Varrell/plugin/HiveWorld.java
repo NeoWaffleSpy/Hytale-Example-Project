@@ -1,7 +1,5 @@
 package org.Varrell.plugin;
 
-import com.hypixel.hytale.builtin.hytalegenerator.assets.props.ColumnPropAsset;
-import com.hypixel.hytale.builtin.hytalegenerator.assets.props.PropAsset;
 import com.hypixel.hytale.logger.HytaleLogger;
 import com.hypixel.hytale.server.core.plugin.JavaPlugin;
 import com.hypixel.hytale.server.core.plugin.JavaPluginInit;
@@ -24,7 +22,5 @@ public class HiveWorld extends JavaPlugin {
     @Override
     protected void setup() {
         LOGGER.atInfo().log("Setting up plugin " + this.getName());
-        this.getCommandRegistry().registerCommand(new ExampleCommand(this.getName(), this.getManifest().getVersion().toString()));
-        this.getCommandRegistry().registerCommand(new DisplayTitleCommand());
     }
 }

@@ -6,24 +6,24 @@
     {
       "Weight": 2,
       "SpawnBlockSet": "Soil",
-      "Id": "Dungeon_Scarak_Broodmother"
+      "Id": "Scarak_Broodmother"
     },
     {
       "Weight": 5,
       "SpawnBlockSet": "Soil",
-      "Id": "Dungeon_Scarak_Seeker",
+      "Id": "Scarak_Seeker",
       "Flock": "One_Or_Two"
     },
     {
       "Weight": 5,
       "SpawnBlockSet": "Soil",
-      "Id": "Dungeon_Scarak_Fighter",
+      "Id": "Scarak_Fighter",
       "Flock": "Group_Medium"
     },
     {
       "Weight": 5,
       "SpawnBlockSet": "Soil",
-      "Id": "Dungeon_Scarak_Defender",
+      "Id": "Scarak_Defender",
       "Flock": "Group_Small"
     }
   ]
